@@ -1,13 +1,6 @@
 # Xenocide
- 
-IBN: "git testing 01"
+A game for CS2TP module of Aston University. Made by team 5.
 
-IBN: "[Prototype-03] branch opened."
+Link to site: https://xenocide.me/
 
-IBN: "[Prototype-04] branch opened."
-
-IBN: "[Prototype-05] branch opened."
-
-IBN: "[Prototype-06] branch opened."
-
-Multiplayer branch requires com.unity.transport to run
+Copyrighted Team 5™️, 2021-2022.
